@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "A portfolio built with Vue.js 3 and Vuetify",
+  "keywords": ["portfolio"],
+  "author": {"name": "Bergman"},
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.29",
+    "vuetify": "^3.6.14"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
